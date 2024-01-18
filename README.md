@@ -1,6 +1,1 @@
-                                                                    # Active-Office-2016
-                  --> This file is a virus used to crack your microsoft office but don't worry it won't damage anything on your computer <--
 
-                                                      + Please turn off your computer's anti-virus first !
-                                                                             Then
-                                                        + Save this file as .cmd and run as administrator
